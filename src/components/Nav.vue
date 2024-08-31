@@ -2,7 +2,7 @@
 <nav class="bg-white">
   <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
   <a href="/" class="flex items-center space-x-3 rtl:space-x-reverse">
-      <img src="https://cdn.discordapp.com/attachments/1146417576675647612/1257013003291725824/file_1.png?ex=6682dc16&is=66818a96&hm=b9829f0d90a4fc82479b22a252b8f385f517685a2c98dbef08677f34269c9c6e" class="h-12" alt="EZRA3LY Logo" />
+      <img src="https://media.discordapp.net/attachments/1146417576675647612/1257013003291725824/file_1.png?ex=66d49916&is=66d34796&hm=35a09a9f09f45165b200e2847cc00b8cdbc9d5dc80b7a26c8608011e8997319a&=&format=webp&quality=lossless&width=1253&height=616" class="h-12" alt="EZRA3LY Logo" />
   </a>
   <div class="flex items-center md:order-2 space-x-3 md:space-x-0 rtl:space-x-reverse">
       <button type="button" class="flex text-sm bg-gray-800 rounded-full md:me-0 focus:ring-4 focus:ring-gray-300 dark:focus:ring-gray-600" id="user-menu-button" aria-expanded="false" data-dropdown-toggle="user-dropdown" data-dropdown-placement="bottom">
