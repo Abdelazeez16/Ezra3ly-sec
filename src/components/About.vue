@@ -37,7 +37,7 @@
                      <path stroke-linecap="round" stroke-linejoin="round" d="M16 17l-4 4m0 0l-4-4m4 4V3"></path>
                  </svg>
                  <div class="abg-orange-400 mx-auto w-fit overflow-hidden rounded-[6rem] rounded-br-none rounded-tl-none">
-                      <img src="https://cdn.discordapp.com/attachments/1146417576675647612/1257074255032487976/WhatsApp_Image_2024-06-30_at_23.43.41_58a608c7.jpg?ex=66831521&is=6681c3a1&hm=21764ad1a8839fca2efea795de5d4c5a24699dde075dac421141921f0407656a">
+                      <img src="https://media.discordapp.net/attachments/1146417576675647612/1257074255032487976/WhatsApp_Image_2024-06-30_at_23.43.41_58a608c7.jpg?ex=66d42961&is=66d2d7e1&hm=604234e257dd18bd78ca7e48fb44c1eac07d671e321ea1057c517117f3528ba5&=&format=webp&width=500&height=500">
                  </div>
              </div>
          </div>
