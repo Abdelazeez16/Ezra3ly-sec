@@ -6,7 +6,7 @@
          <div class="flex flex-col items-center justify-between lg:flex-row py-16">
              <div class=" relative ">
                  <div class=" absolute top-0 -left-48 z-0  ">
-                     <img src="https://cdn.discordapp.com/attachments/1146417576675647612/1257073150638821468/Rose.png?ex=6683141a&is=6681c29a&hm=0c976a3e29ac7dc0ec4dd11751167284d72e84c45a324960508b2737b36ca324" class="w-36 z-0  h-full    object-fill fill-y text-y   ">
+                     <img src="https://media.discordapp.net/attachments/1146417576675647612/1257013003291725824/file_1.png?ex=66d49916&is=66d34796&hm=35a09a9f09f45165b200e2847cc00b8cdbc9d5dc80b7a26c8608011e8997319a&=&format=webp&quality=lossless&width=1253&height=616" class="w-36 z-0  h-full    object-fill fill-y text-y   ">
                  </div>
                  <div class="lg:max-w-xl lg:pr-5 relative z-40">
                      <p class="flex text-sm uppercase text-g1  ">
